@@ -1,4 +1,5 @@
-# Pretty & Handsome
+# 팀명: Pretty & Handsome
+# 프로젝트 명: Pretty Cloud
 
 ---
 
